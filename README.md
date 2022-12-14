@@ -4,3 +4,5 @@
 | ---- | -------------------------------------------- | ----|------- |
 |1| **Word Embedding**|https://github.com/Johnx69/NLP-basics/tree/main/Word%20Embedding |CBOW|
 |2| **Word2Vec**|https://github.com/Johnx69/NLP-basics/tree/main/Word2Vec|Skip-grams, Negative Sampling|
+|3| **Seq2Seq**||Encoder to Decoder|
+|4| **Seq2Seq with Attention** |||
